@@ -1,4 +1,4 @@
-Comparative Analysis of Leading Quick Commerce Platforms
+Comparative Analysis of Quick Commerce Platforms
 
 what is quick commerce?
 
@@ -12,8 +12,11 @@ Comparative Analysis of Quick Commerce Platforms
 In India, Quick Commerce (q-commerce) has rapidly evolved, offering ultra-fast delivery services for groceries, essentials, and more. The three major platforms dominating this space are:
 
 1-Blinkit
+
 2-Zepto
+
 3-Swiggy Instamart
+
 To understand how these platforms stack up against each other, we conducted a comparative analysis using a Power BI dashboard. The dashboard showcases key metrics such as revenue, market share, average order value, city coverage, and the number of dark stores operated by each platform.
 
 This analysis provides insights into the performance and reach of each platform, highlighting their strengths and areas of competition within the q-commerce market
