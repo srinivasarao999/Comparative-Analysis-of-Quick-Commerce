@@ -1,6 +1,6 @@
 Comparative Analysis of Quick Commerce Platforms
 
-what is quick commerce?
+what is Quick Commerce?
 
 Quick commerceis a fast-paced delivery model designed to fulfill customer orders, such as groceries and essentials, within 10-30 minutes. It operates through hyperlocal dark stores strategically placed near high-density areas, ensuring rapid inventory picking and dispatch. With advanced route optimization and real-time updates, q-commerce prioritizes speed and convenience, catering to urban consumers seeking instant delivery solution
 
@@ -28,3 +28,6 @@ Blinkit has emerged as a leader in the quick commerce industry due to its robust
 
 Additionally, Blinkit invests heavily in AI-driven route optimization and rider allocation, enabling quicker last-mile delivery compared to competitors.Overall, Blinkit's superior supply chain management, coupled with its ability to deliver consistent, reliable service, sets it apart from competitors like Zepto and Swiggy Instamart
 
+Refferences 
+https://timesofindia.indiatimes.com/business/india-business/quick-commerce-boosts-fmcg-sector/articleshow/116999463.cms
+https://wareiq.com/resources/blogs/swiggy-instamart-vs-zepto
