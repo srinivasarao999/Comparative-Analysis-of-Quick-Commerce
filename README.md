@@ -1,4 +1,4 @@
-Comparative Analysis of Quick Commerce Platforms
+**Comparative Analysis of Quick Commerce Platforms**
 
 what is Quick Commerce?
 
@@ -22,7 +22,7 @@ To understand how these platforms stack up against each other, we conducted a co
 This analysis provides insights into the performance and reach of each platform, highlighting their strengths and areas of competition within the q-commerce market
 ![WhatsApp Image 2025-01-09 at 21 54 16_3a953b44](https://github.com/user-attachments/assets/dd812bc4-635d-4005-ba50-1b8bcd7b6e81)
 
-why blinkit >>> other platforms
+**why blinkit >>> other platforms**
 
 Blinkit has emerged as a leader in the quick commerce industry due to its robust supply chain management and strategic operations. By leveraging a highly efficient network of dark stores, Blinkit ensures that high-demand items are always in stock and readily available for ultra-fast delivery. Its advanced inventory management systems minimize order failures and optimize stock replenishment, reducing delays and enhancing customer satisfaction. 
 
